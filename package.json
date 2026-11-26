@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-ui-i18n-esbuild-eresolve",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^4.13.1",
+    "@nuxtjs/i18n": "^10.7.0",
+    "nuxt": "^4.7.0"
+  }
+}
