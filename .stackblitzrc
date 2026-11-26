@@ -1,4 +1,4 @@
 {
   "installDependencies": false,
-  "startCommand": "npm install"
+  "startCommand": "npx -y npm@12.2.3 install --no-audit --no-fund"
 }
